@@ -3,9 +3,12 @@
 }
 
 body{
-  margin-top: 50px;
+  margin: 320px 50px 50px 50px;
+  color: grey;
+//  background-color: #f0a07c;
 }
-.top-section img {
+
+.top-section img{
   background-color: white;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -14,11 +17,29 @@ body{
   width : 200px;
 }
 .top-section {
-  background-color: #afaae2;
+  background-color: #706fab;//#4a274f;
+  color: white;//lightgrey;
   text-align: center;
   padding-right: 100px;
 }
 
 .top-section h1{
   padding-top: 20px;
+}
+
+.projects img{
+  width: 400px;
+}
+
+.one_project{
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  margin:10px;
+  width: 420px;
+  text-align: center;
+}
+.navbar-fixed-bottom{
+  text-align: center;
 }
