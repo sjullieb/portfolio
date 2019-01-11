@@ -1,3 +1,24 @@
-.container-fluid ul{
+.container-fluid ul {
   float: right;
+}
+
+body{
+  margin-top: 50px;
+}
+.top-section img {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  margin:30px;
+  width : 200px;
+}
+.top-section {
+  background-color: #afaae2;
+  text-align: center;
+  padding-right: 100px;
+}
+
+.top-section h1{
+  padding-top: 20px;
 }
