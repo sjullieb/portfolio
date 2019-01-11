@@ -3,7 +3,7 @@
 }
 
 body{
-  margin: 320px 50px 50px 50px;
+  margin: 320px 50px 80px 50px;
   color: grey;
 //  background-color: #f0a07c;
 }
@@ -28,7 +28,7 @@ body{
 }
 
 .projects img{
-  width: 400px;
+  width: 350px;
 }
 
 .one_project{
@@ -37,9 +37,9 @@ body{
   border-radius: 4px;
   padding: 10px;
   margin:10px;
-  width: 420px;
+  width: 370px;
   text-align: center;
 }
-.navbar-fixed-bottom{
+.navbar-fixed-bottom nav navbar-nav{
   text-align: center;
 }
