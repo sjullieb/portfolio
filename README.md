@@ -10,13 +10,7 @@ _This is a portfolio of Yulia Shidlovskaya that contains projects and background
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_Open index.html in any web browser_
+_Clone or download repository and open index.html in any web browser_
 
 ## Support and contact details
 
