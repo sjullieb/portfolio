@@ -15,9 +15,9 @@ To download the repository choose "Open in Desktop" or "Download Zip".
 To clone the repository use the provided web URL to run the command "git clone [web URL]" in the terminal 
 (note: git should be installed on your PC).  For more information visit GitHub Help section Cloning a repository from GitHub:
 https://help.github.com/articles/cloning-a-repository-from-github/
-Open index.html in any web browser._
+Open index.html in any web browser.
 
-_To see the page online visit https://sjullieb.github.io/portfolio/ _
+To see the page online visit https://sjullieb.github.io/portfolio/ _
 
 ## Support and contact details
 
